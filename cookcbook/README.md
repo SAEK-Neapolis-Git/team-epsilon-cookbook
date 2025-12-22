@@ -2,9 +2,7 @@
 
 ## Οδηγίες για φοιτητές
 
-Καλώς ήρθατε στο template repository για την εργασία Git.
-
-Αυτό το είναι το repository της ομάδας epsilon.
+Καλώς ήρθατε στο repository της ομάδας epsilon.
 
 ## Repository Structure
 
